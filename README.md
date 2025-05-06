@@ -11,9 +11,12 @@ This repository contains the implementation of part 3 of the Fullstack Open cour
 # Install dependancies
 ```md
  npm install 
-
- create a .env file and put there the MONGODB_URI for connecting to your mongodb database 
+```
+ - create a .env file and put there the MONGODB_URI for connecting to your mongodb database 
+```md
  echo "MONGODB_URI=<YOUR-MONGODB-URI>" > .env 
 ```
 # Start the application
-$ npm run dev $
+```md
+ npm run dev 
+```
